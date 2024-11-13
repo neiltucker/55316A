@@ -275,5 +275,5 @@ Practice joining tables to retrieve data across multiple tables. Complete each o
 1. How would you filter to show only employees hired after January 1, 2020?
 2. Which command helps sort employees by last name in alphabetical order?
 3. Write a query to find the highest salary in each department.
-4. Write a query to show all employees working on a specific project (Hint: Use JOIN with multiple tables).
+4. Write a query to show all employees working on a specific project 
 
