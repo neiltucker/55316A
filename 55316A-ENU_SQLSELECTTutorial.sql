@@ -32,7 +32,8 @@ Salary DECIMAL(10, 2),
 HireDate DATE,
 FOREIGN KEY (DepartmentID) REFERENCES Departments(DepartmentID)
 );
-
+GO
+  
 -- Create Projects Table
 CREATE TABLE Projects (
 ProjectID INT PRIMARY KEY,
