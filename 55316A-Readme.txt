@@ -20,5 +20,5 @@ The training center or any organization hosting the lab computers for this class
 An Azure deployment of the class may make this process easier.
 
 Note:
-Exercises using Azure Data Studio can be substituted with Visual Studio Code.  There is a new demonstration in Module 1 to show how most ADS exercises can be ported over to VS Code.
+Exercises using Azure Data Studio (ADS) should now be substituted with Visual Studio Code or SSMS.  ADS will soon be removed or deprecated by Microsoft.
 
